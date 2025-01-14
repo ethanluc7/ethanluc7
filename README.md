@@ -1,4 +1,4 @@
-## math student @ uwaterloo 
+ math student @ uwaterloo 
 
 <!--
 **ethanluc7/ethanluc7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
